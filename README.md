@@ -12,8 +12,8 @@ Proyek ini merupakan bagian dari tugas Praktikum Pemrograman Web 1 di Universita
 - **Program Studi:** Teknik Informatika
 - **Fakultas:** Teknologi Informasi
 - **Universitas:** UNISKA MAB
-- **GitHub:** [Kunjungi Repositori] https://github.com/rizqizaikalm-afk/web1-2510010170
-- **Website:** [Lihat Sasirangan Banua] https://rizqizaikalm-afk.github.io/web1-2510010170/index.html
+- **GitHub:** [Kunjungi Repositori] https://github.com/rizqizaikalm-afk/web1-25100103636
+- **Website:** [Lihat Sasirangan Banua] https://rizqizaikalm-afk.github.io/web1-2510010363/index.html
  
 
 ## Fitur Website
